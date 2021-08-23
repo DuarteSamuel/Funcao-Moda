@@ -12,8 +12,8 @@ moda <- function(x){ <p>
  &emsp;&emsp;&emsp; names(quantidades)[quantidades == max(quantidades)]<p>
 }
 <p>
-# Aplicação - valor esperado é 14
-teste<-c(rep(c(1, 2, 31, 4, 5, 3, 2, 1, 2, 3, 2, 14, 14, 14, 14, 14, 14, 15, 16, 17), 500))
+# Aplicação - valor esperado é 14 <p>
+teste<-c(rep(c(1, 2, 31, 4, 5, 3, 2, 1, 2, 3, 2, 14, 14, 14, 14, 14, 14, 15, 16, 17), 500)) <p>
 length(teste) # tamanho do vetor
 
 ## 10000
